@@ -22,7 +22,7 @@
 
                 default_layer {
 // -----------------------------------------------------------------------------------------
-// |  GUI |   ~  |  Q  |  W  |  F  |  P  |  B  |   |  J  |  L   |  U  |  Y  |  ;  |  [   | GUI/] |
+// |  GUI |   ~  |  Q  |  W  |  F  |  P  |  t |   |  J  |  L   |  U  |  Y  |  ;  |  [   | GUI/] |
 //        | CTRL |  A  |  R  |  S  |  T  |  G  |   |  M  |  N   |  E  |  I  |  O  |CTRL/'|
 //        | LALT |  X  |  C  |  D  |  V  |  Z  |   |  K  |  H   |  ,  |  .  |  /  | RALT |
 //                           | RSE | SPC | LWR |   | LWR | BKSP | RSE |
